@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a project called 'Wanderlust – Full-Stack Vacation Rental Platform'. worked on a project called 'Acnex International – Full-Stack Import-Export Business Website' . Currently looking for internships in mern stack domain<br>
+I am a Computer Engineering student (2026) and a MERN Stack Web Developer skilled in React.js, Node.js, Express.js, and MongoDB. I have built full-stack projects like Acnex International and Wanderlust, where I implemented REST APIs, responsive UI, and database integration. I am currently seeking opportunities to gain practical industry experience and contribute to real-world projects.<br>
 
 
 ## 🌐 Socials:
