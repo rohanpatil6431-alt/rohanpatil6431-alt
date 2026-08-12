@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Engineering graduate (2026) & MERN Stack Developer with a strong foundation in JavaScript, React.js, Node.js, Express.js, and MongoDB, focused on building responsive user interfaces and scalable backend APIs for full-stack web applicationsCurrently open to full-time Web Development / MERN Stack opportunities, looking to apply and grow full-stack development skills within a collaborative engineering team.<br>
+Computer Engineering graduate (2026) & MERN Stack Developer with a strong foundation in JavaScript, React.js, Node.js, Express.js, and MongoDB, focused on building responsive user interfaces and scalable backend APIs for full-stack web applications. Currently open to full-time Web Development / MERN Stack opportunities, looking to apply and grow full-stack development skills within a collaborative engineering team.<br>
 
 
 ## 🌐 Socials:
