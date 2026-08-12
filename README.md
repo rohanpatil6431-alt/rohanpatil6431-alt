@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Computer Engineering student (2026) and a MERN Stack Web Developer skilled in React.js, Node.js, Express.js, and MongoDB. I have built full-stack projects like Acnex International and Wanderlust, where I implemented REST APIs, responsive UI, and database integration. I am currently seeking opportunities to gain practical industry experience and contribute to real-world projects.<br>
+Computer Engineering graduate (2026) & MERN Stack Developer with a strong foundation in JavaScript, React.js, Node.js, Express.js, and MongoDB, focused on building responsive user interfaces and scalable backend APIs for full-stack web applicationsCurrently open to full-time Web Development / MERN Stack opportunities, looking to apply and grow full-stack development skills within a collaborative engineering team.<br>
 
 
 ## 🌐 Socials:
